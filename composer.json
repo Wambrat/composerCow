@@ -1,0 +1,12 @@
+{
+    "name": "src/wcs",
+    "description": "composerCow",
+    "autoload": {
+        "psr-4": {
+            "Src\\Wcs\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
